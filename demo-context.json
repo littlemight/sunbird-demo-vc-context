@@ -5,7 +5,7 @@
     "id": "@id",
     "schema": "https://schema.org/",
     "ProofOfAcademicEvaluationCredential": {
-      "@id": "https://littlemight.github.io/udc-context.json#ProofOfAcademicEvaluationCredential",
+      "@id": "https://littlemight.github.io/sunbird-demo-vc-context/demo-context.json#ProofOfAcademicEvaluationCredential",
       "@context": {
         "@version": 1.1,
         "@protected": true,
@@ -19,4 +19,3 @@
     }
   }
 }
-
